@@ -21,7 +21,7 @@ REACT_APP_MESSAGE_SENDER_ID = "******"
 REACT_APP_APP_ID = "******"
 REACT_APP_MEASUREMENT_ID = "******"
 
-REACT_APP_SOCKET_SERVER = "*******"
+REACT_APP_SOCKET_URL = "*******"
 ```
 
 ##### Do not forget to add your socket server URL on the client side code as well as the client URL on the socket server code
